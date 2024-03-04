@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color:white;
+}
+ .container{
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin: 50px;
+    
+}
+a{
+    text-decoration: none;
+    margin: 50px;
+}
+a:hover{
+    background-color: blue;
+}
